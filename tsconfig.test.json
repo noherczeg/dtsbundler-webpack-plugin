@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "declaration": true,
+    "target": "es5",
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true
+  },
+  "include": ["test/**/*"]
+}

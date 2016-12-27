@@ -1,0 +1,1 @@
+export * from './dir1/clazz1';
